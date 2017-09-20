@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "120196708912",
+    "firebase_url": "https://santa-land-2946c.firebaseio.com",
+    "project_id": "santa-land-2946c",
+    "storage_bucket": "santa-land-2946c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120196708912:android:14b6641c2b9bf39f",
+        "android_client_info": {
+          "package_name": "com.wael.alameen.santaland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120196708912-2ev4uu2e1laloremvo22t7eej5k7hfjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlhB9KA6sgcm-I8L6E14D3lPLx1mQ0lQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

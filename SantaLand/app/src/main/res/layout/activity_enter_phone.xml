@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_enter_phone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.wael.alameen.santaland.EnterPhoneActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/just_hint"
+        android:gravity="center"
+        android:text="@string/enter_your_phone_number"
+        android:textSize="20sp"
+        android:textColor="@color/colorAccent"
+        android:layout_marginTop="80dp"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/input_four"
+        android:padding="10dp"
+        android:layout_marginTop="100dp"
+        android:layout_below="@+id/just_hint">
+
+        <AutoCompleteTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phone_number"
+            android:hint="@string/enter_your_phone_number"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/input_four"
+        android:text="@string/submit"
+        android:textColor="@color/white"
+        android:background="@color/colorAccent"/>
+
+</RelativeLayout>

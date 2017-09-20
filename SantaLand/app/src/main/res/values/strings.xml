@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Santa Land</string>
+    <string name="action_settings">Settings</string>
+    <string name="santa_land">SANTA LAND</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="add_story">add story</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="designed_and_developed_by">Designed and Developed by</string>
+    <string name="santa_land_version_1_1">Santa Land version : 2.0</string>
+    <string name="only_for_gifts">only for gifts</string>
+    <string name="welcome">اهلا و سهلا بك</string>
+    <string name="some_hint">اهلا بك في Santa Land</string>
+    <string name="info">معلومات عن التطبيق</string>
+    <string name="log">تسجيل</string>
+
+    <string-array name="item_names">
+        <item>Share Up : </item>
+        <item>Connect Us : </item>
+        <item>About Us : </item>
+    </string-array>
+
+    <string name="facebook_app_id">137238476770614</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="enter_your_age">Enter Your Age</string>
+    <string name="enter_your_gender_male_or_female">Enter Your Gender (Male or Female)</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="santa_land_login">Santa Land Login</string>
+    <string name="submit">Submit</string>
+    <string name="upload">Upload a Photo</string>
+    <string name="share">شارك قصتك</string>
+    <string name="enter_your_story">Enter Your Story</string>
+    <string name="ok">موافق</string>
+    <string name="_24">لقد تم تثبيتك كمستخدم نشط، اضغط على زر التفعيل كل 24 ساعة لتكون فرصتك بربح الهدية اكبر</string>
+    <string name="info2">سانتا لاند ارض سانتا بيئة كاملة لرسم الفرحة للمجتمع من خلال تقديم الهدايا والجوائز , سانتا لاند تطبيق على الهاتف المحمول يحتوي على عدد كبير من الجوائز المقدمة من شركات ومؤسسات و لكل شخص له الحق بتحميل التطبيق والمشاركة للفوز بهدية تنال اعجابه , الفرصة موجودة للربح سارع وسجل بالتطبيق وشاركنا التطبيق وحنشاركك بفرحتك</string>
+    <string name="close">اغلاق</string>
+    <string name="select_your_gender">Select Your Gender :</string>
+
+    <string-array name="spinner_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
